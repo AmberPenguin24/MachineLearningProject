@@ -1,0 +1,18 @@
+# Spotify API Credentials
+.env
+
+# Spotipy User Authentication Cache
+.cache
+.cache-*
+
+# Python environment/system files
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Ignore the DEAP dataset folder and its contents
+deap-dataset/
+
+# Alternatively, ignore all MIDI files specifically
+*.mid
