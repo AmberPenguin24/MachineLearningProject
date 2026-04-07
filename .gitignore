@@ -11,8 +11,5 @@ __pycache__/
 venv/
 .venv/
 
-# Ignore the DEAP dataset folder and its contents
-deap-dataset/
-
 # Alternatively, ignore all MIDI files specifically
 *.mid
